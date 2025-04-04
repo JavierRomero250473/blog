@@ -936,13 +936,13 @@ Not advised to edit stuff below this line
 }
 
 .formoid-metro-cyan input[type=radio]+span:before{
-  content: url(../b1.png);
+  content: url(https://cdn.jsdelivr.net/gh/JavierRomero250473/blog@main/b1.png);
 }
 .formoid-metro-cyan input[type=radio]:hover+span:before{
-  content: url(../b2.png);
+  content: url(https://cdn.jsdelivr.net/gh/JavierRomero250473/blog@main/b2.png);
 }
 .formoid-metro-cyan input[type=radio]:checked+span:before{
-  content: url(../b2.png);
+  content: url(https://cdn.jsdelivr.net/gh/JavierRomero250473/blog@main/b2.png);
 }
 
 
