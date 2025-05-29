@@ -2406,7 +2406,7 @@ p.error {
 .hosting_page_plan {
 	position: relative;
 	float: left;
-	width: 10%; /*20%*/
+	width: 13%; /*20%*/
 	border-right: 1px solid #eee;
 }
 .hosting_page_plan .title {
