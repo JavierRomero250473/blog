@@ -350,10 +350,10 @@ fieldset {
   color: var(--color-text-muted);
 }
 
-/** Utilities **/
+/** Utilities 
 
 .col-span-full {
   grid-column: 1 / -1;
-}
+}**/
 /* CSS Document */
 
