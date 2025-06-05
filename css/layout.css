@@ -2391,7 +2391,7 @@ p.error {
 .hosting_page_plan.first .title {
 	float: left;
 	width: 100%;
-	height: /*30px*/40px;
+	height: /*30px*/60px;
 	padding: 10px 0 10px 0;
 	background-color: #454545;
 	text-align: center;
@@ -2412,7 +2412,7 @@ p.error {
 .hosting_page_plan .title {
 	float: left;
 	width: 100%;
-	height: /*27px*/40px;
+	height: /*27px*/60px;
 	padding: 13px 0 10px 0;
 	background-color: #454545;
 	text-align: center;
